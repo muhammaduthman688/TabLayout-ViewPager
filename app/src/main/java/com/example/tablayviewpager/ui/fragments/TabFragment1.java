@@ -1,4 +1,4 @@
-package com.example.tablayviewpager.ui.Fragment;
+package com.example.tablayviewpager.ui.fragments;
 
 import android.os.Bundle;
 

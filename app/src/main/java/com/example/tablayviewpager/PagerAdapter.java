@@ -5,9 +5,9 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentStatePagerAdapter;
 
-import com.example.tablayviewpager.ui.Fragment.TabFragment1;
-import com.example.tablayviewpager.ui.Fragment.TabFragment2;
-import com.example.tablayviewpager.ui.Fragment.TabFragment3;
+import com.example.tablayviewpager.ui.fragments.TabFragment1;
+import com.example.tablayviewpager.ui.fragments.TabFragment2;
+import com.example.tablayviewpager.ui.fragments.TabFragment3;
 
 public class PagerAdapter extends FragmentStatePagerAdapter {
     int mNumOfTabs;
