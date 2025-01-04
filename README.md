@@ -46,12 +46,6 @@ In this project, we demonstrate:
 https://github.com/muhammaduthman688/TabLayout-ViewPager.git
 ```
 
-## Usage and Customization
-- Modify the fragments (`Fragment1.java`, `Fragment2.java`, `Fragment3.java`) to display your own content.
-- Customize tab icons and text by updating the `TabLayout` configuration.
-
-
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
